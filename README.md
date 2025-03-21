@@ -1,8 +1,11 @@
 # Time-Series-Forecasting for Quarterly Revenue Generation of State and Local Taxes
 **Project Overview**
 This project focuses on applying time series forecasting techniques to predict the quarterly revenue generation of State and Local Government Tax in the U.S. using data from 2009 to 2022. Multiple models are evaluated to determine the best forecasting method.
+
 **Dataset**
 The dataset consists of quarterly tax revenue data from the U.S. Census Bureau. It covers the period from 2009 to 2022, with the target variable being tax revenue measured in millions of dollars.
+
+
 **Objectives**
 Perform exploratory data analysis (EDA) to identify trends, seasonality, and outliers.
 
